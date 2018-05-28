@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-
+import { Goal } from '../goal';
 @Component({
   selector: 'app-goal-details',
   templateUrl: './goal-details.component.html',
